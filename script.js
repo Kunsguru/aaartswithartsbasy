@@ -481,7 +481,7 @@ function handleClick() {
 
 function handleRegistrationClick() {
     alert('Redirecting You, Our dearest customer to our Official Web Form Page ...');
-    window.location.href = 'https://arts-with-artsbassey-registration-form.onrender.com';
+    window.location.href = 'https://artsbassey-registration-form1.onrender.com';
 }
 
 function handleContactClick() {
