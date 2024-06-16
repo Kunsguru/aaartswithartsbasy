@@ -480,11 +480,11 @@ function handleClick() {
 
 
 function handleRegistrationClick() {
-    alert('Redirecting You, Our dearest customer to our Official Web Form Page ...');
+    alert('Redirecting You, Our dearest customer to our Official Registration Form Page ...');
     window.location.href = 'https://artsbassey-registration-form1.onrender.com';
 }
 
 function handleContactClick() {
-    alert('Redirecting You, Our dearest customer to our Official Web Contact Form Page ...');
+    alert('Redirecting You, Our dearest customer to our Official  Contact Form Page ...');
     window.location.href = 'https://contact-form1.onrender.com';
 }
